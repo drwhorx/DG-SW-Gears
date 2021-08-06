@@ -1,0 +1,35 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Classes\DGTesting.SwAddin]
+@="DGTesting.SwAddin"
+
+[HKEY_CURRENT_USER\Software\Classes\DGTesting.SwAddin\CLSID]
+@="{2C470B24-1723-442F-B4A5-272D5A7C3EF0}"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{2C470B24-1723-442F-B4A5-272D5A7C3EF0}]
+@="DGTesting.SwAddin"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{2C470B24-1723-442F-B4A5-272D5A7C3EF0}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="DGTesting.SwAddin"
+"Assembly"="DGTesting, Version=1.0.7860.23105, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{2C470B24-1723-442F-B4A5-272D5A7C3EF0}\InprocServer32\1.0.7860.23105]
+"Class"="DGTesting.SwAddin"
+"Assembly"="DGTesting, Version=1.0.7860.23105, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{2C470B24-1723-442F-B4A5-272D5A7C3EF0}\ProgId]
+@="DGTesting.SwAddin"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{2C470B24-1723-442F-B4A5-272D5A7C3EF0}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CURRENT_USER\Software\Classes\Record\{C7044F4E-27E1-4095-B6A5-35682477B8C8}\1.0.7860.23105]
+"Class"="SolidWorks.Interop.swconst.swComponentSuppressionState_e"
+"Assembly"="DGTesting, Version=1.0.7860.23105, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"

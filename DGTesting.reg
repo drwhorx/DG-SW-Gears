@@ -1,0 +1,213 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Classes\Gear]
+@="Gear"
+
+[HKEY_CURRENT_USER\Software\Classes\Gear\CLSID]
+@="{CDFC0679-7A31-34FC-8262-5F5C5046254E}"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{CDFC0679-7A31-34FC-8262-5F5C5046254E}]
+@="Gear"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{CDFC0679-7A31-34FC-8262-5F5C5046254E}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="Gear"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{CDFC0679-7A31-34FC-8262-5F5C5046254E}\InprocServer32\1.0.7872.25632]
+"Class"="Gear"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{CDFC0679-7A31-34FC-8262-5F5C5046254E}\ProgId]
+@="Gear"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{CDFC0679-7A31-34FC-8262-5F5C5046254E}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CURRENT_USER\Software\Classes\Record\{E1B6D9BB-89B2-3CE5-82B1-4E8FB5275B86}\1.0.7872.25632]
+"Class"="CustomEnums.ControlType"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\Record\{D79B8A40-72A2-30E5-B2CF-D397102D6852}\1.0.7872.25632]
+"Class"="CustomEnums.ControlAlign"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\Record\{DF449F44-63C7-312B-9EBC-22981FB1C05D}\1.0.7872.25632]
+"Class"="CustomEnums.ControlOptions"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\Record\{70F49FAD-6307-3C4E-B6B3-9384CFDBF88A}\1.0.7872.25632]
+"Class"="CustomEnums.PMButtons"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\Record\{289B4AAF-E354-3A99-93BB-307E1007FAAD}\1.0.7872.25632]
+"Class"="CustomEnums.PMGroupOptions"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\Record\{37A9D4A2-C284-3AD5-9676-3E0968AA4778}\1.0.7872.25632]
+"Class"="CustomEnums.BitmapButtons"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\Record\{DD201B6A-09A8-3A96-A2DD-1615C8F92FA6}\1.0.7872.25632]
+"Class"="CustomEnums.BitmapLabels"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\Record\{56055BF0-A22A-3299-A830-F17181EA8A05}\1.0.7872.25632]
+"Class"="CustomEnums.NumBoxType"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\Record\{D0028E22-18D7-34B0-B329-C576E4288741}\1.0.7872.25632]
+"Class"="CustomEnums.PMCloseReason"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\DGTesting.MacroFeatureBase]
+@="DGTesting.MacroFeatureBase"
+
+[HKEY_CURRENT_USER\Software\Classes\DGTesting.MacroFeatureBase\CLSID]
+@="{D03C6E05-0658-3B11-8660-2147ED8B3B50}"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{D03C6E05-0658-3B11-8660-2147ED8B3B50}]
+@="DGTesting.MacroFeatureBase"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{D03C6E05-0658-3B11-8660-2147ED8B3B50}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="DGTesting.MacroFeatureBase"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{D03C6E05-0658-3B11-8660-2147ED8B3B50}\InprocServer32\1.0.7872.25632]
+"Class"="DGTesting.MacroFeatureBase"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{D03C6E05-0658-3B11-8660-2147ED8B3B50}\ProgId]
+@="DGTesting.MacroFeatureBase"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{D03C6E05-0658-3B11-8660-2147ED8B3B50}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CURRENT_USER\Software\Classes\DGTesting.InternalSpurFeature]
+@="DGTesting.InternalSpurFeature"
+
+[HKEY_CURRENT_USER\Software\Classes\DGTesting.InternalSpurFeature\CLSID]
+@="{D771EBAC-4804-3CD6-90DE-BD127B5EE8E2}"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{D771EBAC-4804-3CD6-90DE-BD127B5EE8E2}]
+@="DGTesting.InternalSpurFeature"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{D771EBAC-4804-3CD6-90DE-BD127B5EE8E2}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="DGTesting.InternalSpurFeature"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{D771EBAC-4804-3CD6-90DE-BD127B5EE8E2}\InprocServer32\1.0.7872.25632]
+"Class"="DGTesting.InternalSpurFeature"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{D771EBAC-4804-3CD6-90DE-BD127B5EE8E2}\ProgId]
+@="DGTesting.InternalSpurFeature"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{D771EBAC-4804-3CD6-90DE-BD127B5EE8E2}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CURRENT_USER\Software\Classes\DGTesting.SwAddin]
+@="DGTesting.SwAddin"
+
+[HKEY_CURRENT_USER\Software\Classes\DGTesting.SwAddin\CLSID]
+@="{2C470B24-1723-442F-B4A5-272D5A7C3EF0}"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{2C470B24-1723-442F-B4A5-272D5A7C3EF0}]
+@="DGTesting.SwAddin"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{2C470B24-1723-442F-B4A5-272D5A7C3EF0}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="DGTesting.SwAddin"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{2C470B24-1723-442F-B4A5-272D5A7C3EF0}\InprocServer32\1.0.7872.25632]
+"Class"="DGTesting.SwAddin"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{2C470B24-1723-442F-B4A5-272D5A7C3EF0}\ProgId]
+@="DGTesting.SwAddin"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{2C470B24-1723-442F-B4A5-272D5A7C3EF0}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CURRENT_USER\Software\Classes\DGTesting.TestControl]
+@="DGTesting.TestControl"
+
+[HKEY_CURRENT_USER\Software\Classes\DGTesting.TestControl\CLSID]
+@="{81966A10-9D3A-3C54-BE92-21264D5CD36B}"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{81966A10-9D3A-3C54-BE92-21264D5CD36B}]
+@="DGTesting.TestControl"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{81966A10-9D3A-3C54-BE92-21264D5CD36B}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="DGTesting.TestControl"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{81966A10-9D3A-3C54-BE92-21264D5CD36B}\InprocServer32\1.0.7872.25632]
+"Class"="DGTesting.TestControl"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{81966A10-9D3A-3C54-BE92-21264D5CD36B}\ProgId]
+@="DGTesting.TestControl"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{81966A10-9D3A-3C54-BE92-21264D5CD36B}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CURRENT_USER\Software\Classes\Record\{4F3FF558-EE02-4343-963C-42981BF87120}\1.0.7872.25632]
+"Class"="SolidWorks.Interop.swconst.swMacroFeatureSecurityOptions_e"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\Record\{81A319FF-3430-4E2F-8981-49F92D6A6A67}\1.0.7872.25632]
+"Class"="SolidWorks.Interop.swconst.swSelectType_e"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
+
+[HKEY_CURRENT_USER\Software\Classes\Record\{5464076E-52EE-31A8-A5AA-0A6BDCFDF3DE}\1.0.7872.25632]
+"Class"="Gear+Parameters"
+"Assembly"="DGTesting, Version=1.0.7872.25632, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///U:/SWPLUGINS/DGTesting/bin/Debug/DGTesting.dll"
